@@ -14,3 +14,4 @@ https://lean-lang.org/
 https://lean-lang.org/learn/ 
   The Hitchhiker's Guide to Logical Verification
 
+https://www.amazon.com/Type-Theory-Formal-Proof-Introduction/dp/110703650X
