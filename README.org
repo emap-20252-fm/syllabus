@@ -1,8 +1,6 @@
 #+title: Provas Formais e Verificação de Programas
 #+author: Alexandre Rademaker
 
-* Provas Formais e Verificação de Programas
-
 - website: https://github.com/emap-20252-fm/syllabus
 
 ** Descrição Breve
